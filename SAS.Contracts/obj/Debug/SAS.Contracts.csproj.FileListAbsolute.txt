@@ -1,0 +1,16 @@
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\SAS.Contracts.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\SAS.Contracts.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\SAS.Contracts.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.csprojAssemblyReference.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.csproj.CopyComplete
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.pdb

@@ -1,0 +1,16 @@
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Services.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Services.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Services.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.csprojAssemblyReference.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.csproj.CoreCompileInputs.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.csproj.CopyComplete
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.pdb
