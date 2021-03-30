@@ -16,5 +16,23 @@ namespace SAS.WebMVC.Controllers
             var model = new ScriptureListItem[0];
             return View(model);
         }
+
+        // GET: Scripture
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(ScriptureCreate model)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
+
+            return View(model);
+        }
     }
 }
