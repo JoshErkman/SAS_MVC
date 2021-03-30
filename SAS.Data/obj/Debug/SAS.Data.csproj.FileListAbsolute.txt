@@ -14,3 +14,6 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.InitialCreate.resources
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.csproj.GenerateResource.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.ScriptureUpdate.resources
