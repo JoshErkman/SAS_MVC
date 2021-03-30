@@ -14,7 +14,7 @@ namespace SAS.WebMVC.Controllers
         public ActionResult Index()
         {
             var model = new ScriptureListItem[0];
-            return View();
+            return View(model);
         }
     }
 }
