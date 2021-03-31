@@ -85,5 +85,24 @@ namespace SAS.Services
                     };
             }
         }
+
+        public bool UpdateScripture(ScriptureEdit model)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Scriptures
+                        .Single(e => e.ScriptureId == model.ScriptureId && e.OwnerId == _userId);
+
+                entity.Book = model.Book;
+                entity.Chapter = model.Chapter;
+                entity.Verses = model.Verses;
+                entity.Content = model.Content;
+                entity.ModifiedUTC = DateTimeOffset.UtcNow;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }

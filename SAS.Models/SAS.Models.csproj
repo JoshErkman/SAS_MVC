@@ -57,6 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScriptureCreate.cs" />
     <Compile Include="ScriptureDetail.cs" />
+    <Compile Include="ScriptureEdit.cs" />
     <Compile Include="ScriptureListItem.cs" />
   </ItemGroup>
   <ItemGroup>

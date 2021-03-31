@@ -58,6 +58,23 @@ namespace SAS.WebMVC.Controllers
             return View(model);
         }
 
+        public ActionResult Edit(int id)
+        {
+            var service = CreateScriptureService();
+            var detail = service.GetScriptureById(id);
+            var model =
+                new ScriptureEdit
+                {
+                    ScriptureId = detail.ScriptureId,
+                    Book = detail.Book,
+                    Chapter = detail.Chapter,
+                    Verses = detail.Verses,
+                    Content = detail.Content
+                };
+
+            return View(model);
+        }
+
         // Helper Method
         private ScriptureService CreateScriptureService()
         {
