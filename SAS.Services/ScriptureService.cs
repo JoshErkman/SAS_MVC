@@ -62,5 +62,28 @@ namespace SAS.Services
                 return query.ToArray();
             }
         }
+
+        // GET
+        public ScriptureDetail GetScriptureById(int id)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Scriptures
+                        .Single(e => e.ScriptureId == id && e.OwnerId == _userId);
+                return
+                    new ScriptureDetail
+                    {
+                        ScriptureId = entity.ScriptureId,
+                        Book = entity.Book,
+                        Chapter = entity.Chapter,
+                        Verses = entity.Verses,
+                        Content = entity.Content,
+                        CreatedUTC = entity.CreatedUTC,
+                        ModifiedUTC = entity.ModifiedUTC
+                    };
+            }
+        }
     }
 }

@@ -29,6 +29,7 @@ namespace SAS.WebMVC.Controllers
             return View();
         }
 
+        // POST
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(ScriptureCreate model)
@@ -49,6 +50,15 @@ namespace SAS.WebMVC.Controllers
             return View(model);
         }
 
+        public ActionResult Details(int id)
+        {
+            var svc = CreateScriptureService();
+            var model = svc.GetScriptureById(id);
+
+            return View(model);
+        }
+
+        // Helper Method
         private ScriptureService CreateScriptureService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
