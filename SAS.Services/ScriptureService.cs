@@ -104,5 +104,20 @@ namespace SAS.Services
                 return ctx.SaveChanges() == 1;
             }
         }
+
+        public bool DeleteScripture(int scriptureId)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Scriptures
+                        .Single(e => e.ScriptureId == scriptureId && e.OwnerId == _userId);
+
+                ctx.Scriptures.Remove(entity);
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }
