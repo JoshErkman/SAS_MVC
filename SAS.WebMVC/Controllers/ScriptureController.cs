@@ -33,18 +33,28 @@ namespace SAS.WebMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(ScriptureCreate model)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(model);
-            }
+            if (!ModelState.IsValid) return View(model);
 
+
+             var service = CreateScriptureService();
+            
+            if (service.CreateScripture(model))
+             {
+                TempData["SaveResult"] = "Your scripture was created.";
+                return RedirectToAction("Index");
+             }
+
+            ModelState.AddModelError("", "Scripture could not be created.");
+
+            return View(model);
+        }
+
+        private ScriptureService CreateScriptureService()
+        {
             var userId = Guid.Parse(User.Identity.GetUserId());
 
             var service = new ScriptureService(userId);
-
-            service.CreateScripture(model);
-
-            return RedirectToAction("Index");
+            return service;
         }
     }
 }
