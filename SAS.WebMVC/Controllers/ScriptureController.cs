@@ -75,6 +75,30 @@ namespace SAS.WebMVC.Controllers
             return View(model);
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(int id, ScriptureEdit model)
+        {
+            if (!ModelState.IsValid) return View(model);
+
+            if(model.ScriptureId != id)
+            {
+                ModelState.AddModelError("", "Id Mismatch");
+                return View(model);
+            }
+
+            var service = CreateScriptureService();
+
+            if (service.UpdateScripture(model))
+            {
+                TempData["SaveResult"] = "Your scripture was updated.";
+                return RedirectToAction("Index");
+            }
+
+            ModelState.AddModelError("", "Your scripture could not be updated");
+            return View(model);
+        }
+
         // Helper Method
         private ScriptureService CreateScriptureService()
         {
