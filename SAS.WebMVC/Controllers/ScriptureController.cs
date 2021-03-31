@@ -1,4 +1,6 @@
-﻿using SAS.Models;
+﻿using Microsoft.AspNet.Identity;
+using SAS.Models;
+using SAS.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +15,11 @@ namespace SAS.WebMVC.Controllers
         // GET: Scripture
         public ActionResult Index()
         {
-            var model = new ScriptureListItem[0];
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            var service = new ScriptureService(userId);
+            var model = service.GetScriptures();
+
+
             return View(model);
         }
 
@@ -27,12 +33,18 @@ namespace SAS.WebMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(ScriptureCreate model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-
+                return View(model);
             }
 
-            return View(model);
+            var userId = Guid.Parse(User.Identity.GetUserId());
+
+            var service = new ScriptureService(userId);
+
+            service.CreateScripture(model);
+
+            return RedirectToAction("Index");
         }
     }
 }

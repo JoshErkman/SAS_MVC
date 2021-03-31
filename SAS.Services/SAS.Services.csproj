@@ -55,10 +55,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScriptureService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SAS.Data\SAS.Data.csproj">
+      <Project>{be4a1621-11f5-444a-a374-c224fdc20888}</Project>
+      <Name>SAS.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SAS.Models\SAS.Models.csproj">
+      <Project>{7afa8b6c-3142-4912-a26d-bfb02f70909d}</Project>
+      <Name>SAS.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

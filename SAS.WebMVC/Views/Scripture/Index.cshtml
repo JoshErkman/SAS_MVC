@@ -24,7 +24,7 @@
             @Html.DisplayNameFor(model => model.Verses)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.dateTimeOffset)
+            @Html.DisplayNameFor(model => model.CreatedUTC)
         </th>
         <th></th>
     </tr>
@@ -44,7 +44,7 @@
             @Html.DisplayFor(modelItem => item.Verses)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.dateTimeOffset)
+            @Html.DisplayFor(modelItem => item.CreatedUTC)
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |

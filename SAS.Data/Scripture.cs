@@ -13,7 +13,7 @@ namespace SAS.Data
         public int ScriptureId { get; set; }
 
         [Required]
-        public Guid guid { get; set; }
+        public Guid OwnerId { get; set; }
 
         [Required]
         public string Book { get; set; }

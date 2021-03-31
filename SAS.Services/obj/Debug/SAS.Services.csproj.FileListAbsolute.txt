@@ -14,3 +14,9 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\obj\Debug\SAS.Services.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Data.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Models.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Data.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Data.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Models.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Models.dll.config

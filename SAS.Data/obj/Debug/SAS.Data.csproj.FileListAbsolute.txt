@@ -17,3 +17,4 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.InitialCreate.resources
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.csproj.GenerateResource.cache
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.ScriptureUpdate.resources
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.wrongCreatedUTCName.resources

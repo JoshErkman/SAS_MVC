@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SAS.Services
 {
-    class ScriptureService
+    public class ScriptureService
     {
         private readonly Guid _userId;
 
@@ -17,6 +17,7 @@ namespace SAS.Services
             _userId = userId;
         }
 
+        // POST
         public bool CreateScripture(ScriptureCreate model)
         {
             var entity =
@@ -37,6 +38,7 @@ namespace SAS.Services
             }
         }
 
+        // GET
         public IEnumerable<ScriptureListItem> GetScriptures()
         {
             using (var ctx = new ApplicationDbContext())

@@ -19,7 +19,7 @@ namespace SAS.Models
         public string Verses { get; set; }
 
         [Display(Name="Created")]
-        public DateTimeOffset dateTimeOffset { get; set; }
+        public DateTimeOffset CreatedUTC { get; set; }
 
     }
 }

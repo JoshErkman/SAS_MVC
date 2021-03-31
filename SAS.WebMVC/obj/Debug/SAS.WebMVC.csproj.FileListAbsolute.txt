@@ -115,3 +115,9 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\Microsof
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\obj\Debug\SAS.WebMVC.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\obj\Debug\SAS.WebMVC.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\obj\Debug\SAS.WebMVC.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.WebMVC\bin\System.Web.Http.WebHost.xml

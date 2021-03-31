@@ -63,6 +63,10 @@
     <Compile Include="Migrations\202103301429046_ScriptureUpdate.Designer.cs">
       <DependentUpon>202103301429046_ScriptureUpdate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202103302318334_wrongCreatedUTCName.cs" />
+    <Compile Include="Migrations\202103302318334_wrongCreatedUTCName.Designer.cs">
+      <DependentUpon>202103302318334_wrongCreatedUTCName.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scripture.cs" />
@@ -77,6 +81,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202103301429046_ScriptureUpdate.resx">
       <DependentUpon>202103301429046_ScriptureUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202103302318334_wrongCreatedUTCName.resx">
+      <DependentUpon>202103302318334_wrongCreatedUTCName.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
