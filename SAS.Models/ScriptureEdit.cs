@@ -17,5 +17,7 @@ namespace SAS.Models
         public string Verses { get; set; }
 
         public string Content { get; set; }
+
+        public bool IsStarred { get; set; }
     }
 }

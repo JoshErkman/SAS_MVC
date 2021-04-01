@@ -20,3 +20,11 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Data.dll.config
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Models.pdb
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\SAS.Models.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Services\bin\Debug\System.Web.Http.WebHost.xml

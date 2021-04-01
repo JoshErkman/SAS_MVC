@@ -82,12 +82,12 @@
              .css({ "cursor": "pointer" })
              .click(function (e) {
                  var target = $(e.target);
-                 var noteId = target.attr("data-id");
+                 var scriptureId = target.attr("data-id");
                  var starSet = target.hasClass("glyphicon-star");
 
                  $.ajax({
                      method: starSet ? "DELETE" : "PUT",
-                     url: "/api/note/" + noteId + "/star",
+                     url: "/api/scripture/" + scriptureId + "/star",
                      data: null
                  })
                  .done(function (r) {

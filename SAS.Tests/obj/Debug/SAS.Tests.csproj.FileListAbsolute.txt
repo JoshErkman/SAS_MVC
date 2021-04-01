@@ -21,3 +21,11 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\obj\Debug\SAS
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\obj\Debug\SAS.Tests.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\obj\Debug\SAS.Tests.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\obj\Debug\SAS.Tests.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Tests\bin\Debug\System.Web.Http.WebHost.xml

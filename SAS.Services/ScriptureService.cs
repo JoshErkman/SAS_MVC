@@ -101,6 +101,7 @@ namespace SAS.Services
                 entity.Verses = model.Verses;
                 entity.Content = model.Content;
                 entity.ModifiedUTC = DateTimeOffset.UtcNow;
+                entity.IsStarred = model.IsStarred;
 
                 return ctx.SaveChanges() == 1;
             }

@@ -19,6 +19,7 @@ namespace SAS.Models
         public string Verses { get; set; }
 
         [UIHint("Starred")]
+        [Display(Name = "Important")]
         public bool IsStarred { get; set; }
 
         [Display(Name="Created")]

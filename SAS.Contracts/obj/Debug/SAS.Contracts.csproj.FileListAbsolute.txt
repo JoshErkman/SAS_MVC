@@ -14,3 +14,11 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\obj\Debug\SAS.Contracts.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Contracts\bin\Debug\System.Web.Http.WebHost.xml

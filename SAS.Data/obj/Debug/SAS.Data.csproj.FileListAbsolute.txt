@@ -19,3 +19,11 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.ScriptureUpdate.resources
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.wrongCreatedUTCName.resources
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\obj\Debug\SAS.Data.Migrations.IsStarred.resources
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\SAS\SAS.Data\bin\Debug\System.Web.Http.WebHost.xml
