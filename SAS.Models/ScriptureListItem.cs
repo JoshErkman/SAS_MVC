@@ -18,6 +18,9 @@ namespace SAS.Models
 
         public string Verses { get; set; }
 
+        [UIHint("Starred")]
+        public bool IsStarred { get; set; }
+
         [Display(Name="Created")]
         public DateTimeOffset CreatedUTC { get; set; }
 

@@ -251,6 +251,7 @@
     <Content Include="Views\Scripture\Edit.cshtml" />
     <Content Include="Views\Scripture\Delete.cshtml" />
     <Content Include="Views\Shared\DisplayTemplates\DateTimeOffset.cshtml" />
+    <Content Include="Views\Shared\DisplayTemplates\Starred.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

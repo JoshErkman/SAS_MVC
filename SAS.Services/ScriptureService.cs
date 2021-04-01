@@ -55,6 +55,7 @@ namespace SAS.Services
                                     Book = e.Book,
                                     Chapter = e.Chapter,
                                     Verses = e.Verses,
+                                    IsStarred = e.IsStarred,
                                     CreatedUTC = e.CreatedUTC
                                 }
                          );
